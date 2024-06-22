@@ -1,4 +1,4 @@
-FROM node:lts-alpine
+FROM node:20.14.0-alpine3.20
 
 ENV TINI_VERSION v0.18.0
 
